@@ -45,8 +45,8 @@ For more details, check trainobjectloss.py
 ## Pre-trained models
 | Model           | Dataset       | AUC           | Weight        |
 | -------------- | ------------- | ------------- | ------------- | 
-|pseudo-anomaly | Ped2          |   92.49%       |  |
-|pseudo-anomaly | Avenue        |   85.35%       |  |
+|pseudo-anomaly | Ped2          |   95.91%       |  |
+|pseudo-anomaly | Avenue        |   85.35%       | [drive](https://drive.google.com/file/d/1HX5XW12nvlOnTWT_X__P2jGbOyk8R8Zc/view?usp=drive_link) |
 |pseudo-anomaly | ShanghaiTech  |   73.31%       | [drive](https://drive.google.com/file/d/11sANHschB1F9IB5jaCvBzB1yJpSp9RD_/view?usp=drive_link) |
 
 ## Evaluation
