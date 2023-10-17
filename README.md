@@ -47,7 +47,7 @@ For more details, check trainobjectloss.py
 | -------------- | ------------- | ------------- | ------------- | 
 |pseudo-anomaly | Ped2          |   92.49%       |  |
 |pseudo-anomaly | Avenue        |   85.35%       |  |
-|pseudo-anomaly | ShanghaiTech  |   73.31%       |  |
+|pseudo-anomaly | ShanghaiTech  |   73.31%       | https://drive.google.com/file/d/11sANHschB1F9IB5jaCvBzB1yJpSp9RD_/view?usp=drive_link |
 
 ## Evaluation
 * Test the model
