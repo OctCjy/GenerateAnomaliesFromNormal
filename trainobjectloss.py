@@ -6,9 +6,6 @@ from model.utils import Reconstruction3DDataLoader, Reconstruction3DDataLoaderJu
 from model.autoencoder import *
 from utils import *
 from Yolov3.mynewdetect import*
-from model.pseudoanomaly_utils import create_pseudoanomaly_cifar_smooth, \
-    create_pseudoanomaly_cifar_smoothborder, create_pseudoanomaly_seq_smoothborder, \
-    create_pseudoanomaly_cifar_cutmix, create_pseudoanomaly_cifar_mixupcutmix
 
 import argparse
 
