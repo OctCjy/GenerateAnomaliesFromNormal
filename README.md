@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1n4Yazein383Q9LXsW1oHXeFib-HlO1w4/view?usp=drive
 
 ## Training
 ```bash
-git clone https://github.com/aseuteurideu/LearningNotToReconstructAnomalies](https://github.com/OctCjy/GenerateAnomaliesFromNormal
+git clone https://github.com/OctCjy/GenerateAnomaliesFromNormal
 ```
 
 * Training baseline
